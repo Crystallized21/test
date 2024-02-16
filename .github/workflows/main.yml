@@ -11,7 +11,7 @@ jobs:
           bundler-cache: true
       - uses: anishathalye/proof-html@v2
         with:
-          directory: ./_site
+          directory: ./site
           enforce_https: false
           
           
