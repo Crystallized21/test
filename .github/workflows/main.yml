@@ -8,5 +8,5 @@ jobs:
     steps:
       - uses: anishathalye/proof-html@v1.1.0
         with:
-          directory: ./
+          directory: /
           check-html: true
